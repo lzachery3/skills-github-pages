@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Beginning of pickleball site!
 ---
